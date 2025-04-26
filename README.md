@@ -5,10 +5,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://instagram.com/farrelmdyastha">
+  <a href="https://www.instagram.com/farrelmdyasta?igsh=MWRtNW1pazFwa2txMA==">
     <img src="https://img.shields.io/badge/-@farrelmdyastha-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:farrelsugih@gmail.com">
     <img src="https://img.shields.io/badge/-Contact_Me!-00FF00?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=black"/>
   </a>
 </p>
