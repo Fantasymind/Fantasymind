@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=⚡+𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲+𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭;🔐+𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞+𝐋𝐞𝐚𝐫𝐧𝐞𝐫;🛡️+𝐅𝐮𝐭𝐮𝐫𝐞+𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧+𝐓𝐞𝐬𝐭𝐞𝐫;💻+𝐈𝐧𝐟𝐨𝐒𝐞𝐜+𝐀𝐝𝐯𝐞𝐧𝐭𝐮𝐫𝐞𝐫" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=⚡+𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲+𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭;🔐+𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞+𝐋𝐞𝐚𝐫𝐧𝐞𝐫;🛡️+𝐅𝐮𝐭𝐮𝐫𝐞+𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧+𝐓𝐞𝐬𝐭𝐞𝐫;💻+𝐈𝐧𝐟𝐨𝐒𝐞𝐜+𝐀𝐝𝐯𝐞𝐧𝐭𝐮𝐫𝐞𝐫" alt="Farrel Madyastha Widyadhana" />
   </a>
 </h1>
 
